@@ -4,7 +4,7 @@ const proffys = [
         name: "Daniele Costa", 
         avatar: "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
         whatsapp: "94321-1234", 
-        bio: "Entusita e viajante desde o nascimento.<br><br>Apaixonada pela histórias que aconteceram e nos trouxeram até aqui. Mais de 5.000 pessoas já experimentaram descobrir as histórias do mundo comigo.", 
+        bio: "Entusita e viajante desde o nascimento. Apaixonada pela histórias que aconteceram e nos trouxeram até aqui. Mais de 5.000 pessoas já experimentaram descobrir as histórias do mundo comigo.", 
         subject: "Hístoria", 
         cost: "30", 
         weekday: [0], 
