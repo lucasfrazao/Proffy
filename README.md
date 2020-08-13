@@ -23,4 +23,4 @@ Se quiser contribuir com esse projeto, seja corrigindo problemas, adicionando co
 ## 📝 Licença
 Este projeto está sob a licença MIT.
 
-Feito por Lucas Frazão 👋🏻.
+Feito por [Lucas Frazão](https://www.linkedin.com/in/lucas-fraz%C3%A3o/) 👋🏻.
